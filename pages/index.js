@@ -1,6 +1,7 @@
 import useSWR from "swr";
 import Link from "next/link";
 import fetcher from "@/lib/fetcher";
+import { useEffect } from "react";
 
 export default function HomePage() {
   const { data: recipes, mutate } = useSWR("/api/recipes", fetcher);
@@ -19,7 +20,7 @@ export default function HomePage() {
               <p>Ingredients:
                 <ul>{ingredients.map(ingredient => <li>{ingredient.quantity} {ingredient.unit} {ingredient.name}</li>)}</ul></p>
               <p>Instructions: {instructions}</p>
-              <Link href={`/recipes/${_id}`}>Read More</Link>
+              <Link href={`/pages/recipe/${_id}`}>Read More</Link>
             </li>
           ))}
         </ul>
