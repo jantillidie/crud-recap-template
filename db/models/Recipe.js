@@ -31,7 +31,7 @@ const recipeSchema = new Schema({
     required: true
   },
   ingredients: {
-    type: ingredientsSchema,
+    type: [ingredientsSchema],
     required: true
   },
   instructions: {
