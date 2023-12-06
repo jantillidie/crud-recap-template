@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Giggly Guacamole",
+    "description": "A fun twist on classic guacamole with a hint of laughter-inducing lemon zest.",
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "quantity": "2",
+        "unit": "whole",
+        "notes": "ripe"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1",
+        "unit": "whole",
+        "notes": "chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1/4",
+        "unit": "whole",
+        "notes": "finely diced"
+      },
+      {
+        "name": "Lemon zest",
+        "quantity": "1 tsp",
+        "unit": null,
+        "notes": "for a tangy twist"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Cilantro",
+        "quantity": "2 tbsp",
+        "unit": null,
+        "notes": "chopped"
+      }
+    ],
+    "instructions": "Mash avocados, mix in other ingredients, and serve with a smile.",
+    "hero_image_url": "https://images.unsplash.com/photo-1595016111459-799a195e7452?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R3VhY2Ftb2xlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Merry Mushroom Risotto",
+    "description": "A hearty, laughter-filled risotto packed with the joy of mushrooms.",
+    "ingredients": [
+      {
+        "name": "Arborio Rice",
+        "quantity": "1 cup",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": "2 cups",
+        "unit": null,
+        "notes": "sliced"
+      },
+      {
+        "name": "Vegetable Broth",
+        "quantity": "4 cups",
+        "unit": null,
+        "notes": "heated"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1",
+        "unit": "whole",
+        "notes": "finely chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "2 cloves",
+        "unit": null,
+        "notes": "minced"
+      },
+      {
+        "name": "White Wine",
+        "quantity": "1/2 cup",
+        "unit": null,
+        "notes": "optional"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "2 tbsp",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Parmesan",
+        "quantity": "1/2 cup",
+        "unit": null,
+        "notes": "vegan substitute"
+      }
+    ],
+    "instructions": "Saute mushrooms, cook rice in broth, stir in laughter and serve.",
+    "hero_image_url": "https://images.unsplash.com/photo-1595908129746-57ca1a63dd4d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TXVzaHJvb20lMjBSaXNvdHRvfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Chuckle Chili",
+    "description": "A spicy and humorous chili that's sure to bring a smile.",
+    "ingredients": [
+      {
+        "name": "Kidney Beans",
+        "quantity": "2 cups",
+        "unit": null,
+        "notes": "cooked"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 can",
+        "unit": null,
+        "notes": "diced"
+      },
+      {
+        "name": "Bell Pepper",
+        "quantity": "1",
+        "unit": null,
+        "notes": "chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1",
+        "unit": null,
+        "notes": "chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "2 cloves",
+        "unit": null,
+        "notes": "minced"
+      },
+      {
+        "name": "Chili Powder",
+        "quantity": "2 tbsp",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Cumin",
+        "quantity": "1 tsp",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "unit": null,
+        "notes": null
+      }
+    ],
+    "instructions": "Combine all ingredients, simmer until flavors meld, and serve with a laugh.",
+    "hero_image_url": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpbGl8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Silly Spaghetti Squash",
+    "description": "A whimsical take on spaghetti using squash for a healthy twist.",
+    "ingredients": [
+      {
+        "name": "Spaghetti Squash",
+        "quantity": "1",
+        "unit": null,
+        "notes": "halved and seeded"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "2 tbsp",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Garlic",
+        "quantity": "3 cloves",
+        "unit": null,
+        "notes": "minced"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "quantity": "1 cup",
+        "unit": null,
+        "notes": "halved"
+      },
+      {
+        "name": "Basil",
+        "quantity": "1/4 cup",
+        "unit": null,
+        "notes": "chopped"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "unit": null,
+        "notes": null
+      },
+      {
+        "name": "Pepper",
+        "quantity": "to taste",
+        "unit": null,
+        "notes": null
+      }
+    ],
+    "instructions": "Roast squash, fork out 'spaghetti', toss with other ingredients, serve with giggles.",
+    "hero_image_url": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BhZ2hldHRpfGVufDB8fDB8fHww"
+  }
+]
