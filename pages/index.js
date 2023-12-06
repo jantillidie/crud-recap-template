@@ -20,7 +20,7 @@ export default function HomePage() {
               <p>Ingredients:
                 <ul>{ingredients.map(ingredient => <li>{ingredient.quantity} {ingredient.unit} {ingredient.name}</li>)}</ul></p>
               <p>Instructions: {instructions}</p>
-              <Link href={`/pages/recipe/${_id}`}>Read More</Link>
+              <Link href={`/recipe/${_id}`}>Read More</Link>
             </li>
           ))}
         </ul>
