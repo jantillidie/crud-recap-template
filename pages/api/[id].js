@@ -4,12 +4,12 @@ import Recipe from "@/db/models/Recipe";
 export default async function handler(request, response) {
   await connect();
   if (request.method === "GET") {
-    const recipes = await Recipe.findById(request.query.id);
-    if (!recipes) {
+    const recipe = await Recipe.findById(request.query.id);
+    if (!recipe) {
       response.status(404).json({ message: "Recipe not found" });
       return;
     }
-    response.status(200).json(recipes);
+    response.status(200).json(recipe);
     return;
   }
 }
